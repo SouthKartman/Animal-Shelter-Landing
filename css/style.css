@@ -2472,3 +2472,23 @@ blockquote {
 
 
 
+@media (max-width: 500px) {
+
+    .cookie-banner p
+    {
+        margin:10px;
+        width: 100%;
+    }
+
+    .cookie-banner {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #333333ce;
+        color: #fff;
+        padding: 5px 5px 40px 5px;
+        text-align: center;
+        display:block
+      }
+}
