@@ -102,7 +102,7 @@
 
 Этот проект представляет собой шаблон для создания веб-сайта приюта для животных. Он разработан с учетом потребностей приютов и предоставляет базовую структуру для отображения информации о животных, услугах приюта, и возможностях для участия в деятельности приюта.
 <br>
-![image](https://github.com/SouthKartman/Animal-Shelter-Landing/assets/93534577/5a321513-eeab-4339-b400-8aaca225c48a)![image](https://github.com/SouthKartman/Animal-Shelter-Landing/assets/93534577/5d22d8eb-4ad6-4c64-97a8-26f0423e5427)
+![image](https://github.com/SouthKartman/Animal-Shelter-Landing/assets/93534577/5a321513-eeab-4339-b400-8aaca225c48a)
 <br>
 
 ## Возможности
