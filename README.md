@@ -1,4 +1,4 @@
-![image](https://github.com/SouthKartman/Animal-Shelter-Landing/assets/93534577/e6098345-00dd-4f58-80b8-45e13662d2ce)![image](https://github.com/SouthKartman/Animal-Shelter-Landing/assets/93534577/4c9df8ee-2855-4d42-84a3-59459ac02acf)
+![image](https://github.com/SouthKartman/Animal-Shelter-Landing/assets/93534577/e6098345-00dd-4f58-80b8-45e13662d2ce)
 # Шаблон сайта для приюта животных
 
 ## Описание проекта
